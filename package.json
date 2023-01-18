@@ -18,8 +18,4 @@
     "url": "https://github.com/marikondrateva/frontend-project-44/issues"
   },
   "homepage": "https://github.com/marikondrateva/frontend-project-44#readme"
-},
-"bin": {
-  "brain-games": "bin/brain-games.js"
 }
-
