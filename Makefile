@@ -1,4 +1,8 @@
-install:
-bundle install -j2
-npm install
-npm publish
+install:	
+	npm ci
+
+brain-games:
+	node bin/brain-games.js
+
+publish:
+	npm publish --dry-run
